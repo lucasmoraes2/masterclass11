@@ -3,6 +3,14 @@
         {
             "name": "Rockeseat",
             "url": "http://rocketseat.com.br"
+        },
+        {
+            "name": "Google",
+            "url": "http://google.com.br"
+        },
+        {
+            "name": "Netflix",
+            "url": "http://netflix.com.br"
         }
     ]
 }

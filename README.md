@@ -1,3 +1,3 @@
-# Masterclass 11 - Rockeseat
+# Masterclass 11
 
 Construindo e consumindo uma API com Node.
